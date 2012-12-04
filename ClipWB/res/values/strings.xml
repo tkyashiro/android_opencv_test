@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">ClipWB</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_clip">ClipActivity</string>
+    <string name="CA_btn_galary">Galary</string>
+    <string name="CA_btn_camera">Camera</string>
+    <string name="CA_btn_left">&lt;&lt;</string>
+    <string name="CA_btn_right">>></string>
+
+</resources>
